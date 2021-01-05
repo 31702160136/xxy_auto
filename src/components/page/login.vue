@@ -1,7 +1,7 @@
 <template>
   <div class="body">
     <el-row class="title">
-      <el-col>爸爸帮你签到</el-col>
+      <el-col>习讯云超级自动签到</el-col>
     </el-row>
     <el-row class="username">
       <el-col>
